@@ -1,6 +1,6 @@
 - git:
     local-name: ai_battle_drone
-    uri: https://github.com/InnovationGarageLM/ai_battle_drone.git
+    uri: https://github.com/alsack/ai_battle_drone.git
     version: master
 - git:
     local-name: gazebo/ai_drone_gazebo
